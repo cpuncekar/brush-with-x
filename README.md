@@ -25,4 +25,6 @@ To create a letter using brushstrokes in MidJourney, follow these steps:
 ## Example Prompt
 
 Here's an example of a description you can use in MidJourney to create a letter design:
+the letter x consisting of two simplified clear broad brushstrokes, black and white clipart illustration, no background
 
+![Brushstroke Example](/0_letter_x_brush_stroke_black.jpg)
